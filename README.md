@@ -122,5 +122,5 @@ It reflects the type of work done in analytics engineering, BI development, and 
 ## 📬 Contact  
 If you’d like to discuss this project or my work:
 
-**LinkedIn:** *(https://www.linkedin.com/in/jack-williams-b3b442160/)*  
+**LinkedIn:** *https://www.linkedin.com/in/jack-williams-b3b442160/*  
 **Email:** *jw01672@gmail.com*
