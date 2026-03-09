@@ -58,7 +58,7 @@ sql-data-warehouse-project/
 
 ### 🔹 **1. End‑to‑End ETL Pipeline**
 - Extracts raw CRM and ERP data  
-- Cleans and standardizes fields  
+- Cleans and standardises fields  
 - Resolves duplicates and missing values  
 - Integrates datasets into a unified model  
 
